@@ -1,8 +1,3 @@
-header {
-  background-color: #7E0864;
-    
-    
-  }
   .menu{
 
 position: absolute;
@@ -30,21 +25,3 @@ line-height: 19px;
 color: #FFFFFF;
   }
 
-  .menu-text{
-     position: absolute;
-     width: 553px;
-     height: 87px;
-     left: calc(50% - 553px/2 + 17.5px);
-     top: 88px;
-        
-     font-family: 'Inter';
-     font-style: normal;
-     font-weight: 400;
-     font-size: 24px;
-     line-height: 29px;
-     text-align: center;
-        
-     color: #1B1A1A;
-        
-
-      }
