@@ -42,3 +42,11 @@ flex-shrink: 0;
  
 color: #EA4EED;
   }
+
+  .menumeio{
+    width: 826px;
+height: 326px;
+flex-shrink: 0;
+background: radial-gradient(50% 50.00% at 50% 50.00%, #3949DC 0%, rgba(49, 63, 185, 0.00) 100%);
+
+  }
