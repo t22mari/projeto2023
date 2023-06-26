@@ -39,5 +39,6 @@ rgba(175, 28, 28, 0.00) 100%);
     width: 1440px;
 height: 874px;
 flex-shrink: 0;
- background-color: #EA4EED;
+ 
+color: #EA4EED;
   }
