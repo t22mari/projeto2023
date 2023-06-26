@@ -33,6 +33,16 @@ flex-shrink: 0;
 background: linear-gradient(180deg, #78139B 0%, 
 rgba(175, 28, 28, 0.00) 100%);
 
+display: flex;
+width: 553px;
+flex-direction: column;
+flex-shrink: 0;
+Copy
+color: #1B1A1A;
+text-align: center;
+font-size: 24px;
+font-family: Inter;
+
   }
 
   .menuitem{
