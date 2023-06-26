@@ -43,6 +43,13 @@ font-size: 24px;
 font-family: Inter;
 
   }
+  .menucabecavatar{
+    width: 156px;
+height: 156px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+
+Arquivo
+  }
 
   .menuitem{
     width: 1440px;
