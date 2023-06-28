@@ -25,7 +25,7 @@ line-height: 19px;
 color: #FFFFFF;
   }
 
-  .cabec-texto{
+  .cabec{
     width: 1440px;
 height: 143px;
 flex-shrink: 0;
@@ -43,8 +43,8 @@ font-size: 24px;
 font-family: Inter;
 
   }
-  .menucabecavatar{
-    width: 156px;
+  .cabecavatar{
+    width: 140px;
 height: 156px;
 
 
