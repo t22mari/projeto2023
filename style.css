@@ -50,13 +50,21 @@ height: 156px;
 
   }
 
-  .hob 1
-    width: 1440px;
-height: 874px;
-flex-shrink: 0;
- 
-color: #EA4EED;
-  }
+  .corpo{
+    display: grid;
+    text-align: center;
+    grid-template-columns: 30% 30% 30%;
+    position: absolute;
+    left: 320px;
+    width: 1000px;
+}
+.corpo-itens{
+    text-align: center;
+    padding: 16px 0;
+}
+.corpo-itens-img{
+    width: 280px;
+}
 
   .menumeio{
     width: 826px;
