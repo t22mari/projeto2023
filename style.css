@@ -52,7 +52,14 @@ height: 156px;
 
   }
 .cabec-texto{
-  
+  width: 553px;
+  color: #1B1A1A;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
   .corpo{
     display: grid;
@@ -61,6 +68,16 @@ height: 156px;
     position: absolute;
     left: 320px;
     width: 1000px;
+}
+.corpo-texto{
+  color: #232121;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
 }
 .corpo-itens{
     text-align: center;
