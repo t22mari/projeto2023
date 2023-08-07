@@ -8,6 +8,7 @@ top: 0px;
 
 background: #7E0864;
   }
+
   .menu-texto{
 
     position: absolute;
@@ -25,7 +26,8 @@ line-height: 19px;
 color: #FFFFFF;
   }
 
-  .cabec{
+  
+.cabec{
     width: 1440px;
 height: 143px;
 flex-shrink: 0;
@@ -49,7 +51,9 @@ height: 156px;
 
 
   }
-
+.cabec-texto{
+  
+}
   .corpo{
     display: grid;
     text-align: center;
