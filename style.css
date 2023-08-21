@@ -1,11 +1,9 @@
   .menu{
 
-position: absolute;
+
 width: 1440px;
 height: 46px;
-left: 0px;
-top: 0px;
-
+  
 background: #7E0864;
   }
 
@@ -28,7 +26,7 @@ color: #FFFFFF;
 
   
 .cabec{
-    width: 1440px;
+width: 1440px;
 height: 143px;
 flex-shrink: 0;
 
@@ -36,7 +34,6 @@ background: linear-gradient(180deg, #78139B 0%,
 rgba(175, 28, 28, 0.00) 100%);
 
 display: flex;
-width: 553px;
 flex-direction: column;
 flex-shrink: 0;
 color: #1B1A1A;
@@ -52,6 +49,8 @@ height: 156px;
 
   }
 .cabec-texto{
+  position: absolute;
+  left:500px;
   width: 553px;
   color: #1B1A1A;
 text-align: center;
